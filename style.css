@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+   font-family: "Tinos", serif;
+}
+.section-one{
+    text-align: center;
+    background-color: lime;
+    color: rgb(32, 2, 106);
+    font-style: italic;
+    padding: 20px;
+}
+.section-two{
+    width: 250px;
+    display: inline-block;
+    background-color: white;
+    color:black;
+    padding: 3px;
+    margin: 10px;
+    border: none;
+    border: solid greenyellow 2px;
+}
+
+.section-two__image{
+    width: 250px;
+    height: 300px;
+    
+}
+.section-two__image:hover{
+    filter: opacity(0.7);
+    transform: scale(1.04);
+}
+.section-two__button{
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    border: none;
+    border: solid yellow 2px;
+}
+.section-two__button:hover{
+    background-color: green;
+}
+
+.section-three{
+    width: 250px;
+    display: inline-block;
+    background-color: white;
+    color:black;
+    padding: 3px;
+    margin: 10px;
+    border: none;
+    border: solid greenyellow 2px;
+}
+
+.section-three__image{
+    width: 250px;
+    height: 300px;
+}
+.section-three__image:hover{
+    filter: opacity(0.7);
+    transform: scale(1.04);
+}
+
+.section-three__button{
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    border: none;
+    border: solid yellow 2px;
+}
+.section-three__button:hover{
+    background-color: green;
+}
+
+.section-four{
+    width: 250px;
+    display: inline-block;
+    background-color: white;
+    color:black;
+    padding: 3px;
+    margin: 10px;
+    border: none;
+    border: solid greenyellow 2px;
+}
+
+.section-four__image{
+    width: 250px;
+    height: 300px;
+}
+.section-four__image:hover{
+    filter: opacity(0.7);
+    transform: scale(1.04);
+}
+
+.section-four__button{
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    border: none;
+    border: solid yellow 2px;
+}
+.section-four__button:hover{
+    background-color: green;
+}
+
+.section-five{
+    width: 250px;
+    display: inline-block;
+    background-color: white;
+    color:black;
+    padding: 3px;
+    margin: 10px;
+    border: none;
+    border: solid greenyellow 2px;
+}
+
+.section-five__image{
+    width: 250px;
+    height: 300px;
+}
+.section-five__image:hover{
+    filter: opacity(0.7);
+    transform: scale(1.04);
+}
+
+.section-five__button{
+    padding: 3px;
+    background-color: orange;
+    color: black;
+    border: none;
+    border: solid yellow 2px;
+}
+.section-five__button:hover{
+    background-color: green;
+}
+.container{
+    text-align: center;
+    
+}
+
+.contact-form{
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: lime;
+    color: rgb(52, 1, 101);
+    place-items: center;
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__button{
+    margin-top: 5px;
+}
+
+.contact-form__input{
+    padding: 5px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.contact-form__textarea{
+    padding: 5px;
+    border: none;
+    border: solid black 0.5px;
+}
+
+.contact-form__button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    border-style: inset;
+
+}
+:hover.contact-form__button{
+    background-color: mediumslateblue;
+}
+
+.section-name{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
