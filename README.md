@@ -2,7 +2,7 @@
 This is my second web development project — a simple and responsive food ordering website called Reestar. It is built using only HTML and CSS to demonstrate my understanding of webpage layout, styling, and navigation.
 
 🔗 Live Preview
-View the Website <link>
+View the Website <https://karthikthangadurai.github.io/Reestar-Simple-Food-Ordering-Website/>
 
 📌 Features
 🏠 Home Page — Clean and user-friendly introduction to Reestar
